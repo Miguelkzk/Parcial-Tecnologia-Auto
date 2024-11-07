@@ -17,4 +17,4 @@ Además de esta función básica del circuito, hemos agregado 2 funciones extra:
 
    - Luces apagadas: No se ejecuta ninguna secuencia 
 
-* Slider Switch que enciende y apaga las secuencias del sistema.
+* Botón pulsador que apaga la pantalla LCD mientas está presionado.
