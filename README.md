@@ -5,7 +5,7 @@
 ## Descripción del circuito
 El circuito busca simular el funcionamiento de 3 semáforos, donde cada uno muestra una secuencia de luces predefinida, y luego de un tiempo establecido una de las luces se apaga y la otra se mantiene encendida. 
 
-Además de esta función básica del circuito, hemos agregado 2 funciones extra: 
+Además de esta función básica del circuito, hemos agregado 3 funciones extra: 
 
  * Pantalla LCD que muestra el estado del circuito con 4 posibilidades: 
 
@@ -18,3 +18,4 @@ Además de esta función básica del circuito, hemos agregado 2 funciones extra:
    - Luces apagadas: No se ejecuta ninguna secuencia 
 
 * Botón pulsador que apaga la pantalla LCD mientas está presionado.
+* Teclado de 4x4 que permite elegir el semáforo o la secuencia.
