@@ -9,12 +9,12 @@ Además de esta función básica del circuito, hemos agregado 2 funciones extra:
 
  * Pantalla LCD que muestra el estado del circuito con 4 posibilidades: 
 
-   ** Semáforo 1: Se está ejecutando la secuencia del semáforo 1 
+   - Semáforo 1: Se está ejecutando la secuencia del semáforo 1 
 
-   ** Semáforo 2: Se está ejecutando la secuencia del semáforo 2 
+   - Semáforo 2: Se está ejecutando la secuencia del semáforo 2 
 
-   ** Semáforo 3: Se está ejecutando la secuencia del semáforo 3 
+   - Semáforo 3: Se está ejecutando la secuencia del semáforo 3 
 
-   ** Luces apagadas: No se ejecuta ninguna secuencia 
+   - Luces apagadas: No se ejecuta ninguna secuencia 
 
 * Slider Switch que enciende y apaga las secuencias del sistema.
